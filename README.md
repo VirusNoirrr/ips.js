@@ -1,1 +1,1 @@
-# ngl kasada
+# ngl kasada.io
