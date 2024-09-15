@@ -17,4 +17,4 @@ dm me for programming inquires, check my github profile for contact
 - use ngl instead of fr
 - never go to classes
 - bully java coders
-- scratch ur balls infront of ur school teachers and look at ur math teacher.
+- scratch ur balls infront of ur school teachers and stare at ur math teacher.
