@@ -10,7 +10,7 @@ dm me for programming inquires, check my github profile for contact
 
 - scream the N word in oblock
 - sleep 24h per day
-- open metasploit while working (incase if someone act tuff)
+- open metasploit while working (to look very hackerish)
 - play red dead 48h per day
 - touch grass
 - star all my repos (+10000 aura)
