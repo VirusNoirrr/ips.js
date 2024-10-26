@@ -41,6 +41,6 @@ def ngl(v, u, f):
 chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 nvm = ngl(nvm, chars, 50)
 btw = "".join(random.choices("abcdefghijklmnopqrstuvwxyz", k=28))
-jk = nvm[len(nvm)+btw.find(".")] ^ len(nvm)
+jk = nvm[len(nvm)+btw.find(".")] ^ len(nvm) + 4
 sigmaData = nvm[jk:jk+nvm[jk+1]+2]
 print(tbh(sigmaData, [1]))
