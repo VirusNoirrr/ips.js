@@ -2,7 +2,7 @@
 import random
 nvm = open("bytecode.txt").read()
 def dyal(k):
-    return chr((k & 4294967232) | (k * 39 & 63))
+    return chr((k & 4294967232) | (k * 59 & 63))
 def tbh(v, u):
     O = ""
     L = v[u[0]]
